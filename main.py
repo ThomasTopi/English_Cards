@@ -10,8 +10,7 @@ ToDo
 
 
 def main():
-    app = window.Window()
-    #app.mainloop()
+    window.Window()
 
 
 if __name__ == "__main__":
